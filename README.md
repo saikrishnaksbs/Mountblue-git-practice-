@@ -1,3 +1,3 @@
 # Mountblue-git-practice-
 
-    Now i have started practicing git
+    Now i have started learning git
